@@ -1,0 +1,36 @@
+# -----------------------------------------
+# Syntax colouring for HBS658 library
+# -----------------------------------------
+
+
+##################################################
+# Datatypes (such as objects)(KEYWORD1)
+##################################################
+HBS658					KEYWORD1
+HBS658_NUMBER_FONT		KEYWORD1
+
+
+##################################################
+# Methods / functions (KEYWORD2)
+##################################################
+setupDisplay 				KEYWORD2
+clearDisplay 				KEYWORD2
+setSegments 				KEYWORD2
+sendChar 					KEYWORD2
+setDisplayDigit 			KEYWORD2
+setDisplayToDecNumber 		KEYWORD2
+clearDisplayDigit 			KEYWORD2
+setDisplay 					KEYWORD2
+
+
+##################################################
+# Constants (LITERAL1)
+##################################################
+HBS658_CMD_DATA_AUTO			LITERAL1
+HBS658_CMD_DATA_READ			LITERAL1
+HBS658_CMD_DATA_FIXED			LITERAL1
+HBS658_CMD_DISPLAY				LITERAL1
+HBS658_CMD_ADDRESS				LITERAL1
+
+
+
